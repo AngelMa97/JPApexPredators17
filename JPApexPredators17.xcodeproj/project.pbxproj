@@ -11,6 +11,7 @@
 		147EF1722B60466300B97979 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147EF1712B60466300B97979 /* ContentView.swift */; };
 		147EF1742B60466500B97979 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 147EF1732B60466500B97979 /* Assets.xcassets */; };
 		147EF1772B60466500B97979 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 147EF1762B60466500B97979 /* Preview Assets.xcassets */; };
+		147EF17E2B60490800B97979 /* jpapexpredators.json in Resources */ = {isa = PBXBuildFile; fileRef = 147EF17D2B60490800B97979 /* jpapexpredators.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		147EF1712B60466300B97979 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		147EF1732B60466500B97979 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		147EF1762B60466500B97979 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		147EF17D2B60490800B97979 /* jpapexpredators.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = jpapexpredators.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				147EF16F2B60466300B97979 /* JPApexPredators17App.swift */,
 				147EF1712B60466300B97979 /* ContentView.swift */,
 				147EF1732B60466500B97979 /* Assets.xcassets */,
+				147EF17D2B60490800B97979 /* jpapexpredators.json */,
 				147EF1752B60466500B97979 /* Preview Content */,
 			);
 			path = JPApexPredators17;
@@ -127,6 +130,7 @@
 			files = (
 				147EF1772B60466500B97979 /* Preview Assets.xcassets in Resources */,
 				147EF1742B60466500B97979 /* Assets.xcassets in Resources */,
+				147EF17E2B60490800B97979 /* jpapexpredators.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
