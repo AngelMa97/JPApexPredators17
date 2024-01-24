@@ -50,7 +50,6 @@ class Predators {
     }
     
     func filter(by type: PredatorType) {
-        decodeApexPredatorData()
         if type != .all {
             apexPredators = allApexPredators.filter { predator in
                 predator.type == type
